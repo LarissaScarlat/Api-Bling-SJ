@@ -1,0 +1,21 @@
+{
+  "name": "api-bling-sj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LarissaScarlat/Api-Bling-SJ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LarissaScarlat/Api-Bling-SJ/issues"
+  },
+  "homepage": "https://github.com/LarissaScarlat/Api-Bling-SJ#readme"
+}
