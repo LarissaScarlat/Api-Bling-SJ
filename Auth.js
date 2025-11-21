@@ -191,3 +191,4 @@ app.use("/", produtosRouter); // Todas as rotas definidas em produtosRouter ser�
 app.listen(PORT, () => {
     console.log(`🚀 Servidor rodando em https://api-bling-baratao.onrender.com/callback`);
 }); // Inicia o servidor na porta definida e exibe uma mensagem no console indicando que o servidor está rodando
+
